@@ -1,0 +1,37 @@
+BehaviorSpace results (NetLogo 6.2.0),,,,,,,,
+ModeloSegregacionSchelling.nlogo,,,,,,,,
+experimento_test,,,,,,,,
+04/02/2025 21:16:44:643 -0600,,,,,,,,
+min-pxcor,max-pxcor,min-pycor,max-pycor,,,,,
+-50,50,-50,50,,,,,
+[run number],%similaridad-requerida,densidad,detener?,[step],ticks,convergencia?,porcentaje-similar,mean [%similaridad-requerida] of turtles
+1,30,90,ticks > 1000 or convergencia?,16,16,true,74.06628407,30
+2,35,90,ticks > 1000 or convergencia?,21,21,true,76.76703357,35
+3,40,90,ticks > 1000 or convergencia?,24,24,true,82.19648348,40
+4,45,90,ticks > 1000 or convergencia?,30,30,true,86.84186706,45
+5,50,90,ticks > 1000 or convergencia?,26,26,true,86.0673547,50
+6,55,90,ticks > 1000 or convergencia?,100,100,true,94.23247823,55
+7,60,90,ticks > 1000 or convergencia?,189,189,true,97.89840788,60
+8,65,90,ticks > 1000 or convergencia?,197,197,true,98.24039063,65
+9,70,90,ticks > 1000 or convergencia?,416,416,true,99.70038107,70
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
